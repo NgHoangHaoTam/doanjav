@@ -210,5 +210,17 @@
     </footer>
 
 </body>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const productImage = localStorage.getItem('productImage') || '';
+        const productName = localStorage.getItem('productName') || '';
+        const productBrand = localStorage.getItem('productBrand') || '';
+        const productPrice = localStorage.getItem('productPrice') || '';
+        document.getElementById("MainImg").src = `./assets/img/products/${productImage}`;
+        document.querySelector(".single-pro-details h4").textContent = productName;
+        document.querySelector(".single-pro-details h6").textContent = productBrand;
+        document.querySelector(".single-pro-details h2").textContent = productPrice;
+    });
+</script>
 
 </html>
