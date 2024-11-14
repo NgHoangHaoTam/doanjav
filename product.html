@@ -35,49 +35,33 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="single-pro-img">
-                        <img src="./assets/img/products/f1.jpg" alt="" id="MainImg" width="100%">
-                        <div class="small-img-group">
-                            <div class="col-sm-3">
-                                <img src="./assets/img/products/f1.jpg" alt="" class="small-img" width="100%">
-                            </div>
-                            <div class="col-sm-3">
-                                <img src="./assets/img/products/f2.jpg" alt="" class="small-img" width="100%">
-                            </div>
-                            <div class="col-sm-3">
-                                <img src="./assets/img/products/f3.jpg" alt="" class="small-img" width="100%">
-                            </div>
-                            <div class="col-sm-3">
-                                <img src="./assets/img/products/f4.jpg" alt="" class="small-img" width="100%">
-                            </div>
+                        <img alt="Main Product Image" id="MainImg"  width="100%">
+                        <div class="small-img-group" id="smallImgGroup">
+                            <!-- Ảnh nhỏ sẽ được thêm qua JavaScript -->
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="single-pro-details">
-                        <h6>Home / T-Shirt</h6>
-                        <h4>Men's Fashion T Shirt</h4>
-                        <h2>$139.00</h2>
+                        <h6 id="breadcrumb"></h6>
+                        <h4 id="productName"></h4>
+                        <h2 id="productPrice"></h2>
                         <select>
                             <option>Select Size</option>
                             <option>S</option>
                             <option>M</option>
                             <option>L</option>
                             <option>XL</option>
-                            <option>XXL</option>
                         </select>
                         <input type="number" value="1">
                         <button class="normal">Add To Cart</button>
                         <h4>Product Details</h4>
-                        <span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis excepturi beatae
-                            facere
-                            rerum nostrum. Sunt velit eius minus officia, soluta dolor pariatur dolorum maiores laborum
-                            odio
-                            sequi totam ipsum corrupti.</span>
+                        <span id="productDescription"></span>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section>    
 
     <section id="product1" class="section-p1">
         <h2>New Arrivals</h2>
@@ -212,17 +196,5 @@
     </footer>
 
 </body>
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        const productImage = localStorage.getItem('productImage') || '';
-        const productName = localStorage.getItem('productName') || '';
-        const productBrand = localStorage.getItem('productBrand') || '';
-        const productPrice = localStorage.getItem('productPrice') || '';
-        document.getElementById("MainImg").src = `./assets/img/products/${productImage}`;
-        document.querySelector(".single-pro-details h4").textContent = productName;
-        document.querySelector(".single-pro-details h6").textContent = productBrand;
-        document.querySelector(".single-pro-details h2").textContent = productPrice;
-    });
-</script>
 
 </html>
