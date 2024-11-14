@@ -7,9 +7,9 @@ const products = {
         mainImg: "./assets/img/products/f1.jpg",
         images: [
             "./assets/img/products/f1.jpg",
-            "./assets/img/products/f2.jpg",
-            "./assets/img/products/f3.jpg",
-            "./assets/img/products/f4.jpg"
+            "./assets/img/products/a2.jpg",
+            "./assets/img/products/a3.jpg",
+            "./assets/img/products/a4.jpg"
         ],
         description: "Áo polo nam nữ phong cách trẻ trung, thích hợp cho mọi dịp."
     },
@@ -20,9 +20,9 @@ const products = {
         mainImg: "./assets/img/products/f2.jpg",
         images: [
             "./assets/img/products/f2.jpg",
-            "./assets/img/products/f3.jpg",
-            "./assets/img/products/f4.jpg",
-            "./assets/img/products/f1.jpg"
+            "./assets/img/products/b2.jpg",
+            "./assets/img/products/b3.jpg",
+            "./assets/img/products/b4.jpg"
         ],
         description: "Áo thun unisex, thời trang trẻ trung, phù hợp cho mọi lứa tuổi."
     },
@@ -33,9 +33,9 @@ const products = {
         mainImg: "./assets/img/products/f3.jpg",
         images: [
             "./assets/img/products/f3.jpg",
-            "./assets/img/products/f2.jpg",
-            "./assets/img/products/f4.jpg",
-            "./assets/img/products/f1.jpg"
+            "./assets/img/products/c2.jpg",
+            "./assets/img/products/c3.jpg",
+            "./assets/img/products/c4.jpg"
         ],
         description: "Áo thun unisex, thiết kế đơn giản, dễ dàng kết hợp với nhiều trang phục."
     },
@@ -46,9 +46,9 @@ const products = {
         mainImg: "./assets/img/products/f4.jpg",
         images: [
             "./assets/img/products/f4.jpg",
-            "./assets/img/products/f5.jpg",
-            "./assets/img/products/f6.jpg",
-            "./assets/img/products/f7.jpg"
+            "./assets/img/products/d2.jpg",
+            "./assets/img/products/d3.jpg",
+            "./assets/img/products/d4.jpg"
         ],
         description: "Áo sơ mi nam tay ngắn, chất liệu vải mềm mại, phù hợp cho mùa hè."
     },
@@ -59,9 +59,9 @@ const products = {
         mainImg: "./assets/img/products/f5.jpg",
         images: [
             "./assets/img/products/f5.jpg",
-            "./assets/img/products/f6.jpg",
-            "./assets/img/products/f7.jpg",
-            "./assets/img/products/f8.jpg"
+            "./assets/img/products/e2.jpg",
+            "./assets/img/products/e3.jpg",
+            "./assets/img/products/e4.jpg"
         ],
         description: "Áo sơ mi nam tay ngắn, thiết kế trẻ trung, dễ phối hợp với nhiều loại trang phục."
     },
@@ -72,9 +72,9 @@ const products = {
         mainImg: "./assets/img/products/f6.jpg",
         images: [
             "./assets/img/products/f6.jpg",
-            "./assets/img/products/f5.jpg",
-            "./assets/img/products/f7.jpg",
-            "./assets/img/products/f8.jpg"
+            "./assets/img/products/g2.jpg",
+            "./assets/img/products/g3.jpg",
+            "./assets/img/products/g4.jpg"
         ],
         description: "Áo sơ mi nam chất kaki, kiểu dáng đơn giản nhưng rất thanh lịch."
     },
@@ -163,9 +163,9 @@ const products = {
         mainImg: "./assets/img/products/n5.jpg",
         images: [
             "./assets/img/products/n5.jpg",
-            "./assets/img/products/n6.jpg",
-            "./assets/img/products/n7.jpg",
-            "./assets/img/products/n8.jpg"
+            "./assets/img/products/m2.jpg",
+            "./assets/img/products/m3.jpg",
+            "./assets/img/products/m4.jpg"
         ],
         description: "Áo khoác JEAN nam, phong cách năng động và cá tính."
     },
