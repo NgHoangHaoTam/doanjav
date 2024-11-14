@@ -2,7 +2,7 @@
 const products = {
     1: {
         name: "Áo polo nam nữ",
-        breadcrumb: "Home / Áo Polo",
+        breadcrumb: "Áo Polo",
         price: "159.000đ",
         mainImg: "./assets/img/products/f1.jpg",
         images: [
@@ -15,7 +15,7 @@ const products = {
     },
     2: {
         name: "Áo thun unisex nam nữ",
-        breadcrumb: "Home / Áo Thun",
+        breadcrumb: "Áo Thun",
         price: "129.000đ",
         mainImg: "./assets/img/products/f2.jpg",
         images: [
@@ -28,7 +28,7 @@ const products = {
     },
     3: {
         name: "Áo thun unisex nam nữ",
-        breadcrumb: "Home / Áo Thun",
+        breadcrumb: "Áo Thun",
         price: "99.000đ",
         mainImg: "./assets/img/products/f3.jpg",
         images: [
@@ -41,7 +41,7 @@ const products = {
     },
     4: {
         name: "Áo sơ mi nam tay ngắn",
-        breadcrumb: "Home / Áo Sơ Mi",
+        breadcrumb: "Áo Sơ Mi",
         price: "299.000đ",
         mainImg: "./assets/img/products/f4.jpg",
         images: [
@@ -54,7 +54,7 @@ const products = {
     },
     5: {
         name: "Áo sơ mi nam tay ngắn",
-        breadcrumb: "Home / Áo Sơ Mi",
+        breadcrumb: "Áo Sơ Mi",
         price: "300.000đ",
         mainImg: "./assets/img/products/f5.jpg",
         images: [
@@ -67,7 +67,7 @@ const products = {
     },
     6: {
         name: "Áo sơ mi nam Basic chất kaki",
-        breadcrumb: "Home / Áo Sơ Mi",
+        breadcrumb: "Áo Sơ Mi",
         price: "259.000đ",
         mainImg: "./assets/img/products/f6.jpg",
         images: [
@@ -80,7 +80,7 @@ const products = {
     },
     7: {
         name: "Áo len nam phong cách Hàn Quốc",
-        breadcrumb: "Home / Áo Len",
+        breadcrumb: "Áo Len",
         price: "329.000đ",
         mainImg: "./assets/img/products/f7.jpg",
         images: [
@@ -93,7 +93,7 @@ const products = {
     },
     8: {
         name: "Áo len nam thu đông",
-        breadcrumb: "Home / Áo Len",
+        breadcrumb: "Áo Len",
         price: "299.000đ",
         mainImg: "./assets/img/products/f8.jpg",
         images: [
@@ -106,7 +106,7 @@ const products = {
     },
     9: {
         name: "Áo thun nam Cardigan dài tay",
-        breadcrumb: "Home / Áo Thun",
+        breadcrumb: "Áo Thun",
         price: "289.000đ",
         mainImg: "./assets/img/products/n1.jpg",
         images: [
@@ -119,7 +119,7 @@ const products = {
     },
     10: {
         name: "Áo khoác Cardigan",
-        breadcrumb: "Home / Áo Khoác",
+        breadcrumb: "Áo Khoác",
         price: "259.000đ",
         mainImg: "./assets/img/products/n2.jpg",
         images: [
@@ -132,7 +132,7 @@ const products = {
     },
     11: {
         name: "Áo khoác dạ nam",
-        breadcrumb: "Home / Áo Khoác",
+        breadcrumb: "Áo Khoác",
         price: "359.000đ",
         mainImg: "./assets/img/products/n3.jpg",
         images: [
@@ -145,7 +145,7 @@ const products = {
     },
     12: {
         name: "Áo khoác thể thao tay dài",
-        breadcrumb: "Home / Áo Khoác",
+        breadcrumb: "Áo Khoác",
         price: "319.000đ",
         mainImg: "./assets/img/products/n4.jpg",
         images: [
@@ -158,7 +158,7 @@ const products = {
     },
     13: {
         name: "Áo khoác JEAN nam",
-        breadcrumb: "Home / Áo Khoác",
+        breadcrumb: "Áo Khoác",
         price: "359.000đ",
         mainImg: "./assets/img/products/n5.jpg",
         images: [
@@ -171,7 +171,7 @@ const products = {
     },
     14: {
         name: "Áo Hoodie zip",
-        breadcrumb: "Home / Áo Hoodie",
+        breadcrumb: "Áo Hoodie",
         price: "299.000đ",
         mainImg: "./assets/img/products/n6.jpg",
         images: [
@@ -184,7 +184,7 @@ const products = {
     },
     15: {
         name: "Áo thun phối thể thao",
-        breadcrumb: "Home / Áo Thun",
+        breadcrumb: "Áo Thun",
         price: "129.000đ",
         mainImg: "./assets/img/products/n7.jpg",
         images: [
@@ -197,7 +197,7 @@ const products = {
     },
     16: {
         name: "Áo thun Boxy",
-        breadcrumb: "Home / Áo Thun",
+        breadcrumb: "Áo Thun",
         price: "119.000đ",
         mainImg: "./assets/img/products/n8.jpg",
         images: [
