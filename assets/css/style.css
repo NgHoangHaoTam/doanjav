@@ -61,6 +61,7 @@ body {
     top: 0;
     left: 0;
     z-index: 1000;
+    transition: top 0.3s; /* Thêm hiệu ứng mượt mà khi ẩn và hiện */
 }
 
 #navbar {
