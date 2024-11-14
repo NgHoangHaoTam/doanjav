@@ -8,19 +8,19 @@
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 45px;
     line-height: 64px;
     color: #222;
 }
 
 h2 {
-    font-size: 46px;
+    font-size: 45px;
     line-height: 54px;
     color: #222;
 }
 
 h4 {
-    font-size: 22px;
+    font-size: 25px;
     color: #222;
 }
 
@@ -30,8 +30,8 @@ h6 {
 }
 
 p {
-    font-size: 16px;
-    color: #465b52;
+    font-size: 17px;
+    color: #ff0404ad;
     margin: 15px 0 20px 0;
 }
 
@@ -61,7 +61,6 @@ body {
     top: 0;
     left: 0;
     z-index: 1000;
-    transition: top 0.3s; /* Thêm hiệu ứng mượt mà khi ẩn và hiện */
 }
 
 #navbar {
@@ -92,18 +91,17 @@ body {
 /* Home */
 
 #hero {
-    background-image: url("../img/home6.jpg");
-    height:  90vh;
+    background-image: url(../img/home6.jpg);
+    height: 90vh;
     width: 100%;
-    background-size: cover; 
+    background-size: cover;
     background-position: top 10% right 0;
-    padding: 0 80px;
+    padding: 0px 90px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    background-attachment: fixed;     /* Lựa chọn này giữ ảnh cố định khi cuộn trang */
-    
+    background-attachment: fixed;
 }
 
 #hero h4 {
@@ -111,18 +109,18 @@ body {
 }
 
 #hero h1 {
-    color: #088178;
+    color: #ccd80d;
 }
 
 #hero button {
-    background-image: url("../img/button.png");
+    background-image: url(../img/button.png);
     background-color: transparent;
-    color: #088178;
+    color: #ff0000e6;
     border: 0;
     padding: 14px 80px 14px 65px;
     background-repeat: no-repeat;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 17px;
 }
 
 #features .container {
