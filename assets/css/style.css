@@ -30,9 +30,10 @@ h6 {
 }
 
 p {
-    font-size: 17px;
+    font-size: 20px;
     color: #465b52;
     margin: 15px 0 20px 0;
+    font-family: 'emoji';
 }
 
 .section-p1 {
@@ -91,7 +92,7 @@ body {
 /* Home */
 
 #hero {
-    background-image: url(../img/home6.jpg);
+    background-image: url(../img/home6.jpeg);
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -469,7 +470,7 @@ footer h4 {
 }
 
 footer p {
-    font-size: 13px;
+    font-size: 15px;
     margin: 0 0 8px 0;
 }
 
@@ -477,11 +478,12 @@ footer a.i{
     margin-bottom: 0px;
 }
 
-footer a{    
-    font-size: 13px;
+footer a {
+    font-size: 15px;
     text-decoration: none;
     color: #222;
     margin-bottom: 10px;
+    font-family: emoji;
 }
 
 footer .follow {
@@ -706,7 +708,11 @@ footer a:hover {
     white-space: nowrap;
     animation: scroll-text 30s linear infinite;
 }
-
+element.style {
+    text-decoration-line: none;
+    font-size: 15px;
+    font-family: emoji;
+}
 /* Dinh nghia cho thang scrikk-text */
 @keyframes scroll-text {
     0%{
