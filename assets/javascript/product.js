@@ -85,9 +85,9 @@ const products = {
         mainImg: "./assets/img/products/f7.jpg",
         images: [
             "./assets/img/products/f7.jpg",
-            "./assets/img/products/f6.jpg",
-            "./assets/img/products/f5.jpg",
-            "./assets/img/products/f4.jpg"
+            "./assets/img/products/x2.jpg",
+            "./assets/img/products/x3.jpg",
+            "./assets/img/products/x4.jpg"
         ],
         description: "Áo len nam phong cách Hàn Quốc, ấm áp và thời trang cho mùa đông."
     },
@@ -98,9 +98,9 @@ const products = {
         mainImg: "./assets/img/products/f8.jpg",
         images: [
             "./assets/img/products/f8.jpg",
-            "./assets/img/products/f7.jpg",
-            "./assets/img/products/f6.jpg",
-            "./assets/img/products/f5.jpg"
+            "./assets/img/products/z2.jpg",
+            "./assets/img/products/z3.jpg",
+            "./assets/img/products/z4.jpg"
         ],
         description: "Áo len nam thu đông, chất liệu mềm mại, thích hợp cho thời tiết lạnh."
     },
@@ -111,9 +111,9 @@ const products = {
         mainImg: "./assets/img/products/n1.jpg",
         images: [
             "./assets/img/products/n1.jpg",
-            "./assets/img/products/n2.jpg",
-            "./assets/img/products/n3.jpg",
-            "./assets/img/products/n4.jpg"
+            "./assets/img/products/v2.jpg",
+            "./assets/img/products/v3.jpg",
+            "./assets/img/products/v4.jpg"
         ],
         description: "Áo thun nam Cardigan dài tay, giữ ấm tốt, phong cách trẻ trung."
     },
@@ -124,9 +124,9 @@ const products = {
         mainImg: "./assets/img/products/n2.jpg",
         images: [
             "./assets/img/products/n2.jpg",
-            "./assets/img/products/n3.jpg",
-            "./assets/img/products/n4.jpg",
-            "./assets/img/products/n5.jpg"
+            "./assets/img/products/j2.jpg",
+            "./assets/img/products/j3.jpg",
+            "./assets/img/products/j4.jpg"
         ],
         description: "Áo khoác Cardigan, thiết kế ấm áp và thời trang."
     },
@@ -137,9 +137,9 @@ const products = {
         mainImg: "./assets/img/products/n3.jpg",
         images: [
             "./assets/img/products/n3.jpg",
-            "./assets/img/products/n4.jpg",
-            "./assets/img/products/n5.jpg",
-            "./assets/img/products/n6.jpg"
+            "./assets/img/products/k2.jpg",
+            "./assets/img/products/k3.jpg",
+            "./assets/img/products/k4.jpg"
         ],
         description: "Áo khoác dạ nam, thiết kế thời trang, phù hợp cho mùa đông."
     },
@@ -150,9 +150,9 @@ const products = {
         mainImg: "./assets/img/products/n4.jpg",
         images: [
             "./assets/img/products/n4.jpg",
-            "./assets/img/products/n5.jpg",
-            "./assets/img/products/n6.jpg",
-            "./assets/img/products/n7.jpg"
+            "./assets/img/products/l2.jpg",
+            "./assets/img/products/l3.jpg",
+            "./assets/img/products/l4.jpg"
         ],
         description: "Áo khoác thể thao tay dài, chất liệu thoải mái và linh hoạt cho mọi hoạt động."
     },
@@ -176,9 +176,9 @@ const products = {
         mainImg: "./assets/img/products/n6.jpg",
         images: [
             "./assets/img/products/n6.jpg",
-            "./assets/img/products/n7.jpg",
-            "./assets/img/products/n8.jpg",
-            "./assets/img/products/n1.jpg"
+            "./assets/img/products/o2.jpg",
+            "./assets/img/products/o3.jpg",
+            "./assets/img/products/o4.jpg"
         ],
         description: "Áo Hoodie zip, ấm áp và thoải mái cho những ngày lạnh."
     },
@@ -189,9 +189,9 @@ const products = {
         mainImg: "./assets/img/products/n7.jpg",
         images: [
             "./assets/img/products/n7.jpg",
-            "./assets/img/products/n8.jpg",
-            "./assets/img/products/n1.jpg",
-            "./assets/img/products/n2.jpg"
+            "./assets/img/products/p2.jpg",
+            "./assets/img/products/p3.jpg",
+            "./assets/img/products/p4.jpg"
         ],
         description: "Áo thun phối thể thao, trẻ trung và năng động."
     },
@@ -202,9 +202,9 @@ const products = {
         mainImg: "./assets/img/products/n8.jpg",
         images: [
             "./assets/img/products/n8.jpg",
-            "./assets/img/products/n1.jpg",
-            "./assets/img/products/n2.jpg",
-            "./assets/img/products/n3.jpg"
+            "./assets/img/products/y2.jpg",
+            "./assets/img/products/y3.jpg",
+            "./assets/img/products/y4.jpg"
         ],
         description: "Áo thun Boxy, thiết kế đơn giản nhưng rất hiện đại."
     }
