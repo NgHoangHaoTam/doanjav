@@ -7,6 +7,7 @@ import com.Myfriend.JavaWebsite.Repository.CartRepository;
 import com.Myfriend.JavaWebsite.Service.Imp.CartServiceImp;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.math.BigDecimal;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -32,12 +33,13 @@ public class CartService implements CartServiceImp {
     }
 
 
+    @Transactional
     @Override
-    public void ClearCartById(int id) {
-        Cart cart = getCartById(id);
-        cartItemRepository.deleteAllByCartId(id);
+    public void ClearCartById(Integer card_id) {
+        Cart cart = getCartById(card_id);
+        cartItemRepository.deleteAllByCartId(card_id);
         cart.getCartItems().clear();
-        cartRepository.deleteById(id);
+        cartRepository.deleteById(card_id);
     }
 
     @Override
