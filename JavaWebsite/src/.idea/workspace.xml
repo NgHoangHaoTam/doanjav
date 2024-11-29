@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ad2857d-fd50-439f-84ce-a933e97eed8f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/Myfriend/JavaWebsite/Controller/CartItemController.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Users\ADMIN\php-8.3.11\php.exe" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2opIXOyexio1iTtRNYFQkJKK0E3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.JavaWebsiteApplication.executor&quot;: &quot;Run&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JavaWebsite&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.Myfriend.JavaWebsite.Security" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaWebsiteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="JavaWebsite" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Myfriend.JavaWebsite.JavaWebsiteApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ad2857d-fd50-439f-84ce-a933e97eed8f" name="Changes" comment="" />
+      <created>1731560128908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731560128908</updated>
+      <workItem from="1731560130273" duration="11123000" />
+      <workItem from="1731581228611" duration="2076000" />
+      <workItem from="1731604152612" duration="9680000" />
+      <workItem from="1731641703889" duration="8543000" />
+      <workItem from="1731655002560" duration="3207000" />
+      <workItem from="1731682438165" duration="11685000" />
+      <workItem from="1731724574021" duration="614000" />
+      <workItem from="1731730238174" duration="53000" />
+      <workItem from="1731738410062" duration="8777000" />
+      <workItem from="1731775326896" duration="11519000" />
+      <workItem from="1731818292142" duration="6611000" />
+      <workItem from="1731833882122" duration="642000" />
+      <workItem from="1731837295935" duration="3930000" />
+      <workItem from="1731861342368" duration="1937000" />
+      <workItem from="1731866532419" duration="3631000" />
+      <workItem from="1731896699813" duration="6232000" />
+      <workItem from="1731903455697" duration="5759000" />
+      <workItem from="1731916016726" duration="7897000" />
+      <workItem from="1731926051101" duration="9160000" />
+      <workItem from="1731940104763" duration="2549000" />
+      <workItem from="1731946305741" duration="8709000" />
+      <workItem from="1731956485168" duration="1328000" />
+      <workItem from="1731988779525" duration="4184000" />
+      <workItem from="1732002908389" duration="8115000" />
+      <workItem from="1732036558318" duration="9540000" />
+      <workItem from="1732085208077" duration="10021000" />
+      <workItem from="1732098812674" duration="4641000" />
+      <workItem from="1732111876209" duration="9110000" />
+      <workItem from="1732128461151" duration="469000" />
+      <workItem from="1732129622465" duration="743000" />
+      <workItem from="1732130396828" duration="4034000" />
+      <workItem from="1732163052962" duration="13864000" />
+      <workItem from="1732205390331" duration="6541000" />
+      <workItem from="1732212692665" duration="5540000" />
+      <workItem from="1732218842522" duration="299000" />
+      <workItem from="1732251109121" duration="14619000" />
+      <workItem from="1732271834784" duration="2333000" />
+      <workItem from="1732294136515" duration="1302000" />
+      <workItem from="1732298946714" duration="8309000" />
+      <workItem from="1732339252132" duration="21187000" />
+      <workItem from="1732374217946" duration="2385000" />
+      <workItem from="1732382251470" duration="10322000" />
+      <workItem from="1732424709560" duration="5433000" />
+      <workItem from="1732437800203" duration="4097000" />
+      <workItem from="1732452403823" duration="2245000" />
+      <workItem from="1732462101722" duration="12317000" />
+      <workItem from="1732481996600" duration="4583000" />
+      <workItem from="1732501999209" duration="5345000" />
+      <workItem from="1732512116623" duration="13977000" />
+      <workItem from="1732538328466" duration="2550000" />
+      <workItem from="1732547684310" duration="6568000" />
+      <workItem from="1732559698169" duration="9964000" />
+      <workItem from="1732605219971" duration="4608000" />
+      <workItem from="1732611471217" duration="7807000" />
+      <workItem from="1732631562049" duration="3377000" />
+      <workItem from="1732643311809" duration="648000" />
+      <workItem from="1732675434354" duration="633000" />
+      <workItem from="1732679596595" duration="1015000" />
+      <workItem from="1732682192401" duration="6750000" />
+      <workItem from="1732709027431" duration="12381000" />
+      <workItem from="1732774028668" duration="1039000" />
+      <workItem from="1732777659379" duration="14386000" />
+      <workItem from="1732850577280" duration="2260000" />
+      <workItem from="1732859333247" duration="3198000" />
+      <workItem from="1732863333127" duration="3000" />
+      <workItem from="1732863348841" duration="1233000" />
+      <workItem from="1732866245201" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
